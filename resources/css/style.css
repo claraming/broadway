@@ -1,9 +1,22 @@
 body {
   font-family: "Helvetica";
   text-align: center;
+  font-weight: normal;
+}
+
+.hero {
+  background-image: url("https://github.com/claraming/broadway/blob/master/resources/images/the-flatiron-building.png?raw=true");
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
 }
 
 .nav {
   font-size: 18px;
   color: white;
+
 }
