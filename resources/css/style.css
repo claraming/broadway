@@ -29,3 +29,7 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+
+h3.hero {
+  color: white;
+}
